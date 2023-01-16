@@ -1,1 +1,0 @@
-## alx python "almost a circle" project
